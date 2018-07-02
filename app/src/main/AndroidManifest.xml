@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.a93202.wareho">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ResginActivity" />
+        <activity android:name=".SelectActivity" />
+        <activity
+            android:name=".IntoActivity"
+            android:screenOrientation="landscape" />
+        <activity android:name=".ManagerActivity" />
+        <activity android:name=".AddProductActivity" />
+        <activity android:name=".ShowProActivity" />
+        <activity android:name=".AddCustomerActivity" />
+        <activity
+            android:name=".OutActivity"
+            android:screenOrientation="landscape" />
+        <activity android:name=".AddSupplierActivity" />
+        <activity
+            android:name=".ShowCusActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".ShowSupplierActivity"
+            android:screenOrientation="landscape" />
+        <activity android:name=".StockActivity" />
+        <activity
+            android:name=".IntoBaseActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".OutBaseActivity"
+            android:screenOrientation="landscape" />
+        <activity android:name=".BaseActivity" />
+        <activity android:name=".UpdateUserActivity" />
+        <activity android:name=".DelCustomerActivity"
+            android:screenOrientation="landscape"/>
+        <activity android:name=".DelProductActivity" />
+        <activity android:name=".DelSupplierActivity"
+            android:screenOrientation="landscape"
+            ></activity>
+    </application>
+
+</manifest>

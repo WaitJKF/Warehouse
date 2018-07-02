@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">仓库管理</string>
+    <string name="login">登录</string>
+    <string name="resgin">注册</string>
+    <string name="name">用户名</string>
+    <string name="psw"> 密码</string>
+    <string name="mes1">请输入用户名</string>
+    <string name="mse2">请输入密码</string>
+    <string name="ok">确认</string>
+    <string name="product">商品管理</string>
+    <string name="client">顾客管理</string>
+    <string name="supplier">供应商管理</string>
+    <string name="pro_manager">库存管理</string>
+    <string name="pro_out">商品出库</string>
+    <string name="pro_in">商品入库</string>
+    <string name="pro_search">商品查询</string>
+    <string name="customer_search">用户查询</string>
+    <string name="add">添加</string>
+    <string name="delet">删除</string>
+    <string name="compony_name">公司名称</string>
+    <string name="address">地址</string>
+    <string name="cityname">城市名称</string>
+    <string name="companyurl">公司网址</string>
+    <string name="pro_name">商品名称</string>
+    <string name="contacts">联系人     </string>
+    <string name="proguige">商品规格</string>
+    <string name="proprice">商品价格</string>
+    <string name="telephone">联系电话</string>
+    <string name="intoguige">进货规格</string>
+    <string name="intonum">进货数量</string>
+    <string name="outguige">出货规格</string>
+    <string name="outnum">出货数量</string>
+    <string name="id">序号</string>
+    <string name="supname">供应商名称</string>
+    <string name="appellation">名称</string>
+    <string name="show">库存显示</string>
+    <string name="num">库存数量</string>
+    <string name="time">日期</string>
+    <string name="inRecord">入库记录</string>
+    <string name="outRecord">出库记录</string>
+    <string name="showBase">剩余库存</string>
+</resources>
+
